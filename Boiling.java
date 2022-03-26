@@ -1,0 +1,27 @@
+package boiling;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author Ayush
+ */
+public class Boiling {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+           
+        System.out.println("Give in the temperature:");
+        Scanner sc = new Scanner(System.in);
+        int temp = sc.nextInt();
+        
+        if (temp >= 100) {
+            System.out.println("The water is boiling. ");
+        }
+        else {
+            System.out.println("The water is not boling. ");
+        }
+    }    
+}
