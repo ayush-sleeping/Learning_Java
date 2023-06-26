@@ -76,8 +76,8 @@ Learning Java from Basic to Advanced ...
 * <a href=" # ">Threads</a>
 * <a href=" # ">Lambda Expressions</a>
 * <a href=" # ">Java File Handling</a>
-  * <a href=" # ">Files/a>
-  * <a href=" # ">Create and Write To Files/a>
+  * <a href=" # ">Files</a>
+  * <a href=" # ">Create and Write To Files</a>
   * <a href=" # ">Read Files</a>
   * <a href=" # ">Delete Files</a>
 
