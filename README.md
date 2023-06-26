@@ -43,11 +43,6 @@ Learning Java from Basic to Advanced ...
   * <a href="  ">Non-primitive Types</a>
 * <a href="  ">Type Casting</a>
 * <a href="  ">Operators</a>
-* <a href="  ">Type Casting</a>
-* <a href="  ">Operators</a>
-* <a href=" # ">Type Casting</a>
-* <a href=" # ">Operators</a>
-* <a href=" # ">Type Casting</a>
 * <a href=" # ">Java Strings</a>
   * <a href="  ">Concatenation</a>
   * <a href="  ">Numbers and Strings</a>
