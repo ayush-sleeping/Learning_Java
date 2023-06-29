@@ -30,9 +30,7 @@ Learning Java from Basic to Advanced ...
 
 <!-- * <a href=" # ">Hello World</a> -->
 * <a href="https://github.com/ayush-sleeping/Learning_Java/blob/main/From%20Personal%20practice/FirstJavaClass.java">Java Syntax 
- (Hello World)</a>
-* <a href="  ">Output / Print</a>
-* <a href="  ">Comments</a>
+ (Hello World), Output / Print, Comments</a>
 * <a href="  ">Variables</a>
   * <a href="  ">Multiple Variables</a>
   * <a href="  ">Identifiers</a>
