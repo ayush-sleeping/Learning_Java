@@ -29,18 +29,18 @@ Learning Java from Basic to Advanced ...
 ### Table of content :
 
 <!-- * <a href=" # ">Hello World</a> -->
-* <a href="https://github.com/ayush-sleeping/Learning_Java/blob/main/From%20Personal%20practice/FirstJavaClass.java">Java Syntax 
+* <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/1.%20Java%20Syntax%20%26%20Hello%20World">Java Syntax 
  (Hello World), Output / Print, Comments</a>
-* <a href="  ">Variables</a>
-  * <a href="  ">Multiple Variables</a>
-  * <a href="  ">Identifiers</a>
-* <a href="  ">Data Types</a>
-  * <a href="  ">Numbers</a>
-  * <a href="  ">Booleans</a>
-  * <a href="  ">Characters</a>
-  * <a href="  ">Non-primitive Types</a>
-* <a href="  ">Type Casting</a>
-* <a href="  ">Operators</a>
+* <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/2.%20%20Variables">Variables</a>
+  * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/2.%20%20Variables">Multiple Variables</a>
+  * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/2.%20%20Variables">Identifiers</a>
+* <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/3.%20DataTypes">Data Types</a>
+  * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/3.%20DataTypes">Numbers</a>
+  * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/3.%20DataTypes">Booleans</a>
+  * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/3.%20DataTypes">Characters</a>
+  * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/3.%20DataTypes">Non-primitive Types</a>
+* <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/4.%20TypeCasting">Type Casting</a>
+* <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/5.%20Operators">Operators</a>
 * <a href=" # ">Java Strings</a>
   * <a href="  ">Concatenation</a>
   * <a href="  ">Numbers and Strings</a>
