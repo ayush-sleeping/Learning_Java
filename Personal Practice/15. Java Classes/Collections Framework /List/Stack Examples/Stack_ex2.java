@@ -121,4 +121,9 @@ public class Stack_ex2 {
                 return -1;
         }
     }
+    /*
+     This example demonstrates how to use a Stack to check balanced parentheses in an expression 
+     and evaluate an arithmetic expression with balanced parentheses. 
+     The Stack data structure is crucial for maintaining the order of operations and performing calculations 
+     in the correct sequence.*/
 }
