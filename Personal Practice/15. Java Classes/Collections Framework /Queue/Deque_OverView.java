@@ -33,14 +33,14 @@ public class Deque_OverView {
 	
 	/* 
 	 > Declaration and Initialization :
-	 You can create a Priority Queue by importing import java.util.PriorityQueue; .
-	 The syntax for creating a Priority Queue is as follows:
+	 You can create a Deque by importing import java.util.Deque; .
+	 The syntax for creating a Deque is as follows:
 	 (
 	 
 	 import java.util.Deque;
 
-    // Declaration and Initialization of a Deque
-        Deque<String> deque = new ArrayDeque<>();
+              // Declaration and Initialization of a Deque
+              Deque<String> deque = new ArrayDeque<>();
        
 	 )
 	 */
