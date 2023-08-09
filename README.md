@@ -84,7 +84,7 @@ Learning Java from Basic to Advanced ...
   * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/15.%20Java%20Classes/Regular%20Expression%20">Regular Expressions</a>
   * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/15.%20Java%20Classes/Threads">Threads</a>
   * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/15.%20Java%20Classes/Lambda%20Expressions%20">Lambda Expressions</a>
-  * <a href=" # ">Iterator</a>
+  * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/15.%20Java%20Classes/Iterator">Iterator</a>
   * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/15.%20Java%20Classes/Collections%20Framework%20">Collection Framework</a>
        * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/15.%20Java%20Classes/Collections%20Framework%20/List">List</a>
             * <a href="https://github.com/ayush-sleeping/Learning_Java/tree/main/Personal%20Practice/15.%20Java%20Classes/Collections%20Framework%20/List">ArrayList</a>
